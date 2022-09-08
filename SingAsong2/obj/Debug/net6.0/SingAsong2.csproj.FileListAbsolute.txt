@@ -1,0 +1,17 @@
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\bin\Debug\net6.0\SingAsong2.exe
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\bin\Debug\net6.0\SingAsong2.deps.json
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\bin\Debug\net6.0\SingAsong2.runtimeconfig.json
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\bin\Debug\net6.0\SingAsong2.dll
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\bin\Debug\net6.0\SingAsong2.pdb
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\SingAsong2.csproj.AssemblyReference.cache
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\SingAsong2.Properties.Resources.resources
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\SingAsong2.csproj.GenerateResource.cache
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\SingAsong2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\SingAsong2.AssemblyInfoInputs.cache
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\SingAsong2.AssemblyInfo.cs
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\SingAsong2.csproj.CoreCompileInputs.cache
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\SingAsong2.dll
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\refint\SingAsong2.dll
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\SingAsong2.pdb
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\SingAsong2.genruntimeconfig.cache
+C:\Users\ricl\Source\Repos\SingAsong2\SingAsong2\obj\Debug\net6.0\ref\SingAsong2.dll
